@@ -1,0 +1,10 @@
+C:\Users\Thim\Desktop\iPhone_dev\openBlackbreeze\build\openBlackbreeze.exe
+C:\Users\Thim\Desktop\iPhone_dev\openBlackbreeze\build\openBlackbreeze.pdb
+C:\Users\Thim\Desktop\iPhone_dev\openBlackbreeze\build\openBlackbreeze.xml
+C:\Users\Thim\Desktop\iPhone_dev\openBlackbreeze\openBlackbreeze\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Thim\Desktop\iPhone_dev\openBlackbreeze\openBlackbreeze\obj\Release\openBlackbreeze.Main.resources
+C:\Users\Thim\Desktop\iPhone_dev\openBlackbreeze\openBlackbreeze\obj\Release\openBlackbreeze.Resources.resources
+C:\Users\Thim\Desktop\iPhone_dev\openBlackbreeze\openBlackbreeze\obj\Release\openBlackbreeze.vbproj.GenerateResource.Cache
+C:\Users\Thim\Desktop\iPhone_dev\openBlackbreeze\openBlackbreeze\obj\Release\openBlackbreeze.exe
+C:\Users\Thim\Desktop\iPhone_dev\openBlackbreeze\openBlackbreeze\obj\Release\openBlackbreeze.xml
+C:\Users\Thim\Desktop\iPhone_dev\openBlackbreeze\openBlackbreeze\obj\Release\openBlackbreeze.pdb
